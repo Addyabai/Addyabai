@@ -1,7 +1,8 @@
 <div align="center">
 
-<!-- subtle spider mark -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e0c0a,50:1a1710,100:0e0c0a&height=140&section=header&text=Addyabai&fontColor=c8a96e&fontSize=42&fontAlignY=58&fontAlign=50&desc=Hunter%20Association%20%E2%80%94%20Registered%20Developer&descSize=13&descAlignY=80&descColor=5a5240" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f05,50:8b1a1a,100:1a0f05&height=160&section=header&text=Addyabai&fontColor=f2e8d0&fontSize=50&fontAlignY=55&fontAlign=50&desc=Grand%20Line%20Explorer%20%E2%80%94%20Full-Stack%20Developer&descSize=14&descAlignY=78&descColor=d4a017" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pirata+One&size=22&pause=1000&color=D4A017&center=true&vCenter=true&width=600&lines=I'm+gonna+be+King+of+the+Coders!+🏴‍☠️;Set+sail+for+the+Grand+Line...+⚓;The+treasure+is+in+the+code!+💻)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,59 +11,62 @@
 <div align="center">
 
 ```
-  ┌─────────────────────────────────────────────┐
-  │   HUNTER ASSOCIATION  ·  Official License   │
-  │─────────────────────────────────────────────│
-  │                                             │
-  │   Name          Addyabai                    │
-  │   Class         ★ Star Hunter               │
-  │   Spec.         Full-Stack Developer        │
-  │   Guild         Shadow                      │
-  │   Region        PH  ·  No. 2024             │
-  │                                             │
-  │   Nen Type      Conjurer  ✦  Transmuter     │
-  │   Status        Active — ascending          │
-  │                                          🕷  │
-  └─────────────────────────────────────────────┘
+  ╔══════════════════════════════════════════════════════════╗
+  ║   ⚓  GRAND LINE NAVIGATION BUREAU  ·  Form GL-2024  ⚓  ║
+  ║══════════════════════════════════════════════════════════║
+  ║                                                          ║
+  ║   Explorer Name  :  Addyabai                             ║
+  ║   Home Sea       :  Philippines                          ║
+  ║   Current Waters :  Grand Line                           ║
+  ║   Class          :  Rising ★★★  Full-Stack Dev          ║
+  ║   Crew           :  Shadow                               ║
+  ║   Status         :  Active · Sailing ⛵                  ║
+  ║                                              🏴‍☠️          ║
+  ╚══════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
 
-## Abilities
+## ⚓ Techniques & Haki
 
-| Technique | Proficiency |
-|-----------|-------------|
-| Vue.js    | `▓▓▓▓▓▓▓▓▓▓▓░`  S-Class |
-| Python    | `▓▓▓▓▓▓▓▓▓░░░`  A-Class |
-| Django    | `▓▓▓▓▓▓▓▓░░░░`  A-Class |
-| Frontend  | `▓▓▓▓▓▓▓▓▓▓░░`  S-Class |
-| Databases | `▓▓▓▓▓▓░░░░░░`  B-Class |
-
----
-
-## Missions Completed
-
-```
-  ┌──────────────────────────────────────────────────────┐
-  │  ✦  LAMBO — Barangay Management System               │
-  │     Python · Django · Full Records & Document Mgmt   │
-  │                                                      │
-  │  ✦  Inventory System                                 │
-  │     Vue.js · Real-time Tracking & Stock Management   │
-  └──────────────────────────────────────────────────────┘
-```
+| Ability | Power | Rank |
+|---------|-------|------|
+| ⚡ Vue.js    | `▓▓▓▓▓▓▓▓▓▓▓░` | S |
+| 🐍 Python   | `▓▓▓▓▓▓▓▓▓░░░` | A |
+| 🛡️ Django   | `▓▓▓▓▓▓▓▓░░░░` | A |
+| 🎨 Frontend | `▓▓▓▓▓▓▓▓▓▓░░` | S |
+| 🗄️ Database | `▓▓▓▓▓▓░░░░░░` | B |
 
 ---
 
-## Stats
+## 🏝️ Completed Voyages
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Addyabai&show_icons=true&hide_title=true&theme=dark&bg_color=0e0c0a&border_color=3a3020&icon_color=c8a96e&text_color=d4c9b0&hide_border=false"/>
+| | Project | Tech | Status |
+|--|---------|------|--------|
+| 🏝️ | **LAMBO — Barangay Management System** | Python · Django | ✅ CLEARED |
+| ⚓ | **Inventory System** | Vue.js | ✅ CLEARED |
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Addyabai&layout=compact&theme=dark&bg_color=0e0c0a&border_color=3a3020&title_color=c8a96e&text_color=d4c9b0"/>
+</div>
+
+---
+
+## 📊 Battle Log
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Addyabai&show_icons=true&theme=dark&bg_color=1a0f05&border_color=8b1a1a&icon_color=d4a017&title_color=f2e8d0&text_color=d4c9b0"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Addyabai&layout=compact&theme=dark&bg_color=1a0f05&border_color=8b1a1a&title_color=f2e8d0&text_color=d4c9b0"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Addyabai&theme=dark&background=1a0f05&ring=8b1a1a&fire=d4a017&currStreakLabel=f2e8d0&border=8b1a1a)](https://git.io/streak-stats)
 
 </div>
 
@@ -70,8 +74,10 @@
 
 <div align="center">
 
-<sub>github.com/Addyabai &nbsp;·&nbsp; 🕷</sub>
+> *"I don't want to conquer anything. I just think the person with the most freedom in this whole ocean... is the King of the Pirates!"*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e0c0a,100:1a1710&height=80&section=footer" width="100%"/>
+⚓ **github.com/Addyabai** ⚓
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f05,50:8b1a1a,100:1a0f05&height=100&section=footer" width="100%"/>
 
 </div>
